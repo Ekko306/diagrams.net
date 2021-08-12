@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-08-11T13:44:54.026Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36" etag="F1OoCrVGDm510-vH4kyD" version="14.9.6" type="github">
+<mxfile host="app.diagrams.net" modified="2021-08-12T06:17:47.395Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36" etag="M08E0H-1smI04kHphg6z" version="14.9.6" type="github">
   <diagram name="Page-1" id="5f0bae14-7c28-e335-631c-24af17079c00">
-    <mxGraphModel dx="1298" dy="857" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
+    <mxGraphModel dx="1722" dy="981" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -37,7 +37,7 @@
             <mxPoint x="705" y="220.0000000000001" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="MQeQ29FiY3f9qQBaGK5R-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Zg44AK9i3nNa13F0HYsf-6" target="MQeQ29FiY3f9qQBaGK5R-15">
+        <mxCell id="MQeQ29FiY3f9qQBaGK5R-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="Zg44AK9i3nNa13F0HYsf-6" target="MQeQ29FiY3f9qQBaGK5R-15" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="850" y="440" />
@@ -45,7 +45,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="Zg44AK9i3nNa13F0HYsf-6" value="在build文件夹增加json文件，获取节点信息&amp;nbsp;" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="Zg44AK9i3nNa13F0HYsf-6" value="在build文件夹增加json文件，节点存储信息&amp;nbsp;" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="970" y="240" width="100" height="410" as="geometry" />
         </mxCell>
         <mxCell id="Zg44AK9i3nNa13F0HYsf-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="Zg44AK9i3nNa13F0HYsf-12" target="Zg44AK9i3nNa13F0HYsf-18" edge="1">
@@ -56,7 +56,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="MQeQ29FiY3f9qQBaGK5R-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Zg44AK9i3nNa13F0HYsf-12" target="MQeQ29FiY3f9qQBaGK5R-27">
+        <mxCell id="MQeQ29FiY3f9qQBaGK5R-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="Zg44AK9i3nNa13F0HYsf-12" target="MQeQ29FiY3f9qQBaGK5R-27" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="50" y="440" />
@@ -80,7 +80,7 @@
           <mxGeometry x="195" y="580" width="225" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Zg44AK9i3nNa13F0HYsf-20" value="3. 拼接条件参数query到url" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="194" y="650" width="227" height="30" as="geometry" />
+          <mxGeometry x="194" y="640" width="227" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Zg44AK9i3nNa13F0HYsf-62" value="1. 主props：声明props的约定symbols名称（声明式）" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="142.5" y="200" width="310" height="30" as="geometry" />
@@ -100,20 +100,20 @@
         <mxCell id="Zg44AK9i3nNa13F0HYsf-78" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="Zg44AK9i3nNa13F0HYsf-70" target="Zg44AK9i3nNa13F0HYsf-71" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="MQeQ29FiY3f9qQBaGK5R-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Zg44AK9i3nNa13F0HYsf-70" target="Zg44AK9i3nNa13F0HYsf-71">
+        <mxCell id="MQeQ29FiY3f9qQBaGK5R-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="Zg44AK9i3nNa13F0HYsf-70" target="Zg44AK9i3nNa13F0HYsf-71" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Zg44AK9i3nNa13F0HYsf-70" value="2. 对modules_federations每个微模块接入typerscript-json-schema，获取单独json-schema" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="500" y="140" width="410" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Zg44AK9i3nNa13F0HYsf-71" value="3. 将独立微模块的json-schema按规范合并成一个json，是否需要合并" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="Zg44AK9i3nNa13F0HYsf-71" value="3. 将独立微模块的json-schema按规范合并成一个json（是否需要合并）" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="500" y="200" width="410" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="MQeQ29FiY3f9qQBaGK5R-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Zg44AK9i3nNa13F0HYsf-75" target="Zg44AK9i3nNa13F0HYsf-20">
+        <mxCell id="MQeQ29FiY3f9qQBaGK5R-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="Zg44AK9i3nNa13F0HYsf-75" target="Zg44AK9i3nNa13F0HYsf-20" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Zg44AK9i3nNa13F0HYsf-75" value="可能方案：直接输出url提供测试" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;" parent="1" vertex="1">
-          <mxGeometry x="460" y="620" width="90" height="90" as="geometry" />
+          <mxGeometry x="440" y="620" width="90" height="90" as="geometry" />
         </mxCell>
         <mxCell id="rJb5pzSwhZQ086dk8shP-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="rJb5pzSwhZQ086dk8shP-2" target="Zg44AK9i3nNa13F0HYsf-70" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -121,26 +121,26 @@
         <mxCell id="rJb5pzSwhZQ086dk8shP-2" value="可能技巧：多个generator加速生成" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;" parent="1" vertex="1">
           <mxGeometry x="960" y="110" width="90" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="MQeQ29FiY3f9qQBaGK5R-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="MQeQ29FiY3f9qQBaGK5R-15" target="Zg44AK9i3nNa13F0HYsf-12">
+        <mxCell id="MQeQ29FiY3f9qQBaGK5R-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="MQeQ29FiY3f9qQBaGK5R-15" target="Zg44AK9i3nNa13F0HYsf-12" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="MQeQ29FiY3f9qQBaGK5R-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="MQeQ29FiY3f9qQBaGK5R-15" target="MQeQ29FiY3f9qQBaGK5R-19">
+        <mxCell id="MQeQ29FiY3f9qQBaGK5R-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="MQeQ29FiY3f9qQBaGK5R-15" target="MQeQ29FiY3f9qQBaGK5R-19" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="MQeQ29FiY3f9qQBaGK5R-15" value="3. 后端将jsonschema文件解析落库" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="655" y="410" width="120" height="60" as="geometry" />
+        <mxCell id="MQeQ29FiY3f9qQBaGK5R-15" value="3. 后端将jsonschema文件解析落库" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="645" y="410" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="MQeQ29FiY3f9qQBaGK5R-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="MQeQ29FiY3f9qQBaGK5R-19" target="MQeQ29FiY3f9qQBaGK5R-21">
+        <mxCell id="MQeQ29FiY3f9qQBaGK5R-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="MQeQ29FiY3f9qQBaGK5R-19" target="MQeQ29FiY3f9qQBaGK5R-21" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="MQeQ29FiY3f9qQBaGK5R-19" value="1. 设计解析步骤，入库，如何将jsonschema和各个微模块对应" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="600" y="510" width="230" height="40" as="geometry" />
+        <mxCell id="MQeQ29FiY3f9qQBaGK5R-19" value="1. 设计解析步骤，入库，如何将jsonschema和各个微模块对应" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="590" y="510" width="230" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="MQeQ29FiY3f9qQBaGK5R-21" value="2. 提供后端接口，能够前端传入应用和微模块名之后获取typing信息" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="600" y="580" width="230" height="30" as="geometry" />
+        <mxCell id="MQeQ29FiY3f9qQBaGK5R-21" value="2. 提供后端接口，能够前端传入应用和微模块名之后获取typing信息" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="590" y="580" width="230" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="MQeQ29FiY3f9qQBaGK5R-27" value="5. 后端将每次测试url入库，转换成id提供历史获取" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="250" y="730" width="120" height="60" as="geometry" />
+        <mxCell id="MQeQ29FiY3f9qQBaGK5R-27" value="5. 后端将每次测试url入库，转换成id，提供历史获取测试获取功能" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="645" y="730" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
