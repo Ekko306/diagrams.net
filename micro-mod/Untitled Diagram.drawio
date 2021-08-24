@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-08-20T07:35:52.452Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.159 Safari/537.36" etag="AsulStN2EzH5HHgyNzFn" version="14.9.6" type="github">
+<mxfile host="app.diagrams.net" modified="2021-08-24T07:41:24.685Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.159 Safari/537.36" etag="qh3MfagGs_fYXdmdtj3D" version="14.9.8" type="github">
   <diagram name="Page-1" id="5f0bae14-7c28-e335-631c-24af17079c00">
     <mxGraphModel dx="2066" dy="1177" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
@@ -38,6 +38,11 @@
               <mxPoint x="940" y="450" />
               <mxPoint x="940" y="450" />
             </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2-xjeLUmb2QUIyB7ItBG-1" value="def同步到商家平台" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="arwBSXUkP7VasmWXPgDl-10">
+          <mxGeometry x="0.2293" y="3" relative="1" as="geometry">
+            <mxPoint x="16" y="-3" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="Zg44AK9i3nNa13F0HYsf-6" value="在build文件夹增加json文件，节点存储" style="whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
@@ -99,9 +104,6 @@
         <mxCell id="arwBSXUkP7VasmWXPgDl-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="MQeQ29FiY3f9qQBaGK5R-15" target="arwBSXUkP7VasmWXPgDl-4" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="arwBSXUkP7VasmWXPgDl-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="MQeQ29FiY3f9qQBaGK5R-15" target="arwBSXUkP7VasmWXPgDl-8" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="MQeQ29FiY3f9qQBaGK5R-15" value="3. 后端&lt;br&gt;将jsonschema文件解析与入库" style="whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="645" y="420" width="120" height="60" as="geometry" />
         </mxCell>
@@ -122,9 +124,6 @@
         </mxCell>
         <mxCell id="arwBSXUkP7VasmWXPgDl-4" value="数据库设计" style="ellipse;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="645" y="560" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="arwBSXUkP7VasmWXPgDl-8" value="&lt;span&gt;提供接口：应用名+微模块名=&amp;gt;typing信息&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="590" y="360" width="230" height="30" as="geometry" />
         </mxCell>
         <mxCell id="arwBSXUkP7VasmWXPgDl-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="arwBSXUkP7VasmWXPgDl-13" target="Zg44AK9i3nNa13F0HYsf-3" edge="1">
           <mxGeometry relative="1" as="geometry" />
