@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-03-23T11:31:15.372Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.74 Safari/537.36 Edg/99.0.1150.46" etag="uQLH2O9H8gQneEpqKbQ-" version="17.1.5" type="github">
+<mxfile host="app.diagrams.net" modified="2022-03-23T11:38:11.394Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.74 Safari/537.36 Edg/99.0.1150.46" etag="_Wbp4pvq9oTqzdvhE7pE" version="17.1.5" type="github">
   <diagram id="vahYMMVl_uVIBJJLvTep" name="Page-1">
     <mxGraphModel dx="1422" dy="4261" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -31,11 +31,32 @@
         <mxCell id="osAo5ENFZ_8Ub0HUP16J-25" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;startArrow=none;startFill=0;endArrow=none;endFill=0;" edge="1" parent="1" source="osAo5ENFZ_8Ub0HUP16J-1" target="osAo5ENFZ_8Ub0HUP16J-15">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="osAo5ENFZ_8Ub0HUP16J-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0;entryDx=0;entryDy=67.5;entryPerimeter=0;startArrow=none;startFill=0;endArrow=classic;endFill=1;dashed=1;" edge="1" parent="1" source="osAo5ENFZ_8Ub0HUP16J-1" target="osAo5ENFZ_8Ub0HUP16J-31">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="690" y="-3227" />
+              <mxPoint x="690" y="-3149" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="osAo5ENFZ_8Ub0HUP16J-38" value="记录" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="osAo5ENFZ_8Ub0HUP16J-35">
+          <mxGeometry x="-0.0495" y="-2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="osAo5ENFZ_8Ub0HUP16J-1" value="在线协作教学" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="293" y="-3257" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="osAo5ENFZ_8Ub0HUP16J-11" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.75;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="osAo5ENFZ_8Ub0HUP16J-4" target="osAo5ENFZ_8Ub0HUP16J-1">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="osAo5ENFZ_8Ub0HUP16J-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;startArrow=none;startFill=0;endArrow=classic;endFill=1;dashed=1;" edge="1" parent="1" source="osAo5ENFZ_8Ub0HUP16J-4" target="osAo5ENFZ_8Ub0HUP16J-31">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="osAo5ENFZ_8Ub0HUP16J-37" value="初始化" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="osAo5ENFZ_8Ub0HUP16J-33">
+          <mxGeometry x="-0.1585" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="osAo5ENFZ_8Ub0HUP16J-4" value="在线信息" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="293" y="-3367" width="120" height="60" as="geometry" />
@@ -64,6 +85,14 @@
         <mxCell id="osAo5ENFZ_8Ub0HUP16J-15" value="绘图上传模块" style="rounded=0;whiteSpace=wrap;html=1;gradientColor=none;" vertex="1" parent="1">
           <mxGeometry x="548" y="-3157" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="osAo5ENFZ_8Ub0HUP16J-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;startArrow=none;startFill=0;endArrow=classic;endFill=1;dashed=1;" edge="1" parent="1" source="osAo5ENFZ_8Ub0HUP16J-20" target="osAo5ENFZ_8Ub0HUP16J-31">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="osAo5ENFZ_8Ub0HUP16J-39" value="保存" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="osAo5ENFZ_8Ub0HUP16J-36">
+          <mxGeometry x="-0.2935" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="osAo5ENFZ_8Ub0HUP16J-20" value="结束教学" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="293" y="-2967" width="120" height="60" as="geometry" />
         </mxCell>
@@ -75,6 +104,9 @@
         </mxCell>
         <mxCell id="osAo5ENFZ_8Ub0HUP16J-30" value="3.结束阶段" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="19" y="-3037" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="osAo5ENFZ_8Ub0HUP16J-31" value="教学信息数据" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="750" y="-3217" width="70" height="100" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
