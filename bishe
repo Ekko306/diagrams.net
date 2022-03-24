@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-03-23T07:30:14.800Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.74 Safari/537.36 Edg/99.0.1150.46" etag="3pWkzTdFOMPIv7i5F6kd" version="17.1.5" type="github">
+<mxfile host="app.diagrams.net" modified="2022-03-24T05:33:41.287Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.83 Safari/537.36" etag="xGZAMEaOp630_PVy591e" version="17.1.4" type="github">
   <diagram id="XOGRIRwHGYjfSOL9QszP" name="Page-1">
-    <mxGraphModel dx="1422" dy="754" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="884" dy="589" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -56,10 +56,10 @@
           <mxGeometry x="320" y="150" width="20" height="220" as="geometry" />
         </mxCell>
         <mxCell id="hAVlqJdRPyTjX_gdw_b--9" value="历史教学信息查看" style="rounded=1;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;horizontal=1;" parent="1" vertex="1">
-          <mxGeometry x="380" y="150" width="20" height="220" as="geometry" />
+          <mxGeometry x="440" y="150" width="20" height="220" as="geometry" />
         </mxCell>
         <mxCell id="hAVlqJdRPyTjX_gdw_b--10" value="参与在线教学" style="rounded=1;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;horizontal=1;" parent="1" vertex="1">
-          <mxGeometry x="440" y="150" width="20" height="220" as="geometry" />
+          <mxGeometry x="380" y="150" width="20" height="220" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
