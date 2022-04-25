@@ -1,14 +1,44 @@
-<mxfile host="app.diagrams.net" modified="2022-04-25T03:50:09.581Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="dxYLxfh_RzD-nZdueOzz" version="17.4.6" type="github">
+<mxfile host="app.diagrams.net" modified="2022-04-25T03:53:09.805Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="Qzr3a5XEuhpGim2kMeGa" version="17.4.6" type="github">
   <diagram id="d3eO8pxQQgvNCxz8jqRR" name="Page-1">
     <mxGraphModel dx="886" dy="532" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="q-DXLcnewMDHFtmrwL7r-1" value="进入在线教学模块" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="260" y="20" width="90" height="40" as="geometry" />
+          <mxGeometry x="260" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="q-DXLcnewMDHFtmrwL7r-3" value="选择教学班级与授课名称？" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="264.5" y="100" width="81" height="70" as="geometry" />
+          <mxGeometry x="264.5" y="120" width="81" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="q-DXLcnewMDHFtmrwL7r-4" value="进入教学阶段" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="260" y="210" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="q-DXLcnewMDHFtmrwL7r-5" value="选择授课模块" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="264.5" y="280" width="81" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="q-DXLcnewMDHFtmrwL7r-6" value="在线聊天模块" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="245" y="380" width="30" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="q-DXLcnewMDHFtmrwL7r-7" value="学生在线模块" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="275" y="380" width="30" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="q-DXLcnewMDHFtmrwL7r-8" value="在线管理模块" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="305" y="380" width="30" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="q-DXLcnewMDHFtmrwL7r-9" value="状态管理模块" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="335" y="380" width="30" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="q-DXLcnewMDHFtmrwL7r-10" value="进入结束阶段阶段" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="260" y="520" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="q-DXLcnewMDHFtmrwL7r-11" value="进入准备阶段" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="260" y="60" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="q-DXLcnewMDHFtmrwL7r-12" value="数据库信息保存" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="260" y="600" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="q-DXLcnewMDHFtmrwL7r-14" value="结束" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="260" y="710" width="90" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
