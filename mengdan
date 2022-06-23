@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-06-23T06:14:15.761Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="7E7kXjhWjEcmLG6sHFyN" version="20.0.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-06-23T06:24:35.204Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="NLao3HATiEPqOzi5cFML" version="20.0.3" type="github">
   <diagram id="aBT8sR7mqyF4V2R0kcHh" name="Page-1">
     <mxGraphModel dx="946" dy="614" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -10,16 +10,16 @@
         <mxCell id="txhPnMZ2Mtb7LwvQpSmF-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="txhPnMZ2Mtb7LwvQpSmF-2" target="txhPnMZ2Mtb7LwvQpSmF-5">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="185" y="90" />
-              <mxPoint x="125" y="90" />
+              <mxPoint x="165" y="90" />
+              <mxPoint x="90" y="90" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="txhPnMZ2Mtb7LwvQpSmF-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="txhPnMZ2Mtb7LwvQpSmF-2" target="txhPnMZ2Mtb7LwvQpSmF-6">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="185" y="90" />
               <mxPoint x="165" y="90" />
+              <mxPoint x="140" y="90" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -30,7 +30,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="txhPnMZ2Mtb7LwvQpSmF-2" value="中小学生" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="140" y="40" width="90" height="30" as="geometry" />
+          <mxGeometry x="120" y="40" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="txhPnMZ2Mtb7LwvQpSmF-3" value="师范大学生" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="390" y="40" width="90" height="30" as="geometry" />
@@ -39,19 +39,37 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="txhPnMZ2Mtb7LwvQpSmF-5" value="课程专区" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="115" y="110" width="20" height="110" as="geometry" />
+          <mxGeometry x="80" y="110" width="20" height="110" as="geometry" />
         </mxCell>
         <mxCell id="txhPnMZ2Mtb7LwvQpSmF-6" value="题库专区" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="155" y="110" width="20" height="110" as="geometry" />
+          <mxGeometry x="130" y="110" width="20" height="110" as="geometry" />
         </mxCell>
         <mxCell id="txhPnMZ2Mtb7LwvQpSmF-7" value="社区专区" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="195" y="110" width="20" height="110" as="geometry" />
+          <mxGeometry x="190" y="110" width="20" height="110" as="geometry" />
         </mxCell>
         <mxCell id="txhPnMZ2Mtb7LwvQpSmF-9" value="我的专区" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="235" y="110" width="20" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="txhPnMZ2Mtb7LwvQpSmF-16" value="在线学习专业课/拓展课" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="70" y="250" width="30" height="110" as="geometry" />
+        <mxCell id="txhPnMZ2Mtb7LwvQpSmF-16" value="学习专业课程" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="15" y="250" width="25" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="txhPnMZ2Mtb7LwvQpSmF-17" value="娱乐学习游戏" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="90" y="250" width="20" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="txhPnMZ2Mtb7LwvQpSmF-20" value="在线选题做题" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="130" y="250" width="20" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="txhPnMZ2Mtb7LwvQpSmF-21" value="发帖与评论" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="190" y="250" width="20" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="txhPnMZ2Mtb7LwvQpSmF-22" value="教师聊天答疑" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="220" y="250" width="20" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="txhPnMZ2Mtb7LwvQpSmF-23" value="生成做题报告" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="250" width="20" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="txhPnMZ2Mtb7LwvQpSmF-24" value="学习拓展课程" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="50" y="250" width="25" height="110" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
