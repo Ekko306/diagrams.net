@@ -1,9 +1,12 @@
-<mxfile host="app.diagrams.net" modified="2022-06-23T08:17:01.246Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="2ukb3ZA5eCsKCuTO_R5_" version="20.0.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-06-23T08:23:15.873Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="YztgC11TYQ5s5-rf8R-e" version="20.0.3" type="github">
   <diagram id="sUtNnZuVVFvHvxaxI6Fy" name="Page-1">
-    <mxGraphModel dx="1051" dy="619" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="823" dy="484" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="2_yLUJa_vtWkAan97R7e-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="2_yLUJa_vtWkAan97R7e-1" target="2_yLUJa_vtWkAan97R7e-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="2_yLUJa_vtWkAan97R7e-1" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="120" y="70" width="460" height="200" as="geometry" />
         </mxCell>
@@ -23,10 +26,19 @@
           <mxGeometry x="200" y="120" width="70" height="70" as="geometry" />
         </mxCell>
         <mxCell id="2_yLUJa_vtWkAan97R7e-12" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="120" y="300" width="460" height="250" as="geometry" />
+          <mxGeometry x="120" y="320" width="460" height="250" as="geometry" />
         </mxCell>
         <mxCell id="2_yLUJa_vtWkAan97R7e-13" value="小程序端&lt;br&gt;Client" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;dashPattern=1 1;" vertex="1" parent="1">
-          <mxGeometry x="140" y="320" width="60" height="30" as="geometry" />
+          <mxGeometry x="140" y="340" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="2_yLUJa_vtWkAan97R7e-17" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=data:image/png,iVBORw0KGgoAAAANSUhEUgAAACQAAAAkCAMAAADW3miqAAABXFBMVEUAAAAA/wAA/4AAqlUAtm0Av2AAxlUAzGYAv2oAxGIAyFsAu2YAv2AAw1oMwmEMxV0LvGQLv2AKwlwJvV4Iw2IHwWAHw14GwWAGwl4FwV4FwmEFw18Fwl4Jw2EJv2AIwGAIwV8Iv2IHwGAHwV8HwF4Hw2EHwGAGwmEGwWAGwGAGwV8GwWEGwmAGwGEIwV8IwmAIwWAIwV8HwV8GwF8GwWAGwmAGwWAIwmEIwV8IwWEIwF8IwWAHwGAHwWEHwl8HwWAHwWAHwWEHwmAHwF8HwWAGwWAGwl8GwGAGwmAGwWAIwWAIwGAIwWAHwWAHwWAHwl8HwWAGwWAGwWEGwWAGwWAIwWAIwWAIwV8HwWEHwWAHwWAHwV8HwWAHwGAHwmAHwWAHwV8HwWAHwWAHwWAHwWAHwWAHwV8GwWAIwWAHwV8HwWAHwWAHwWAHwWAHwWAHwWAHwV8HwWAHwWD///+kQSAnAAAAcnRSTlMAAQIDBwgJCgwNDg8QERUWFxgZGyIlJi0uMTIzNjc4PT5ERUZJTE1PUlVWV1hZXmBiY3N2d31/gYOEhoeKjJaXmJmam5ydnp+ipKWnqLW6u8HFxsfIycrLzs/R09XY4OLj5efo6err7O3z9PX3+Pn6+/5CaJDGAAAAAWJLR0RzQQk9zgAAAaRJREFUGBm1wedfUlEAx+FvCAZmgxIz23uoLUuy3KM8li3MhqVSYHkv3gu///9F5wDyOQhvfR6ORt/Y4kY5jssbC6MZuhtcDtUSLuXo1DtdVZt4KsUhuU11KJylzYWyutgZwpMrq6udLC29m2pX2QpVV0hyYFq+2uvhY/RcXZOTp2mwKk98l4ZxWXtZGpblewo9N59cAVZkzVDXF8rzN0X/N0nvEgzKCtI4Y/K9hwk5t+GPrBGcRflWwch5CEVZ8zgb8hkwsn6mOVOTtY6zq6bKj0AyYKQwn4FJOSWcSHXRRD+XJANGGgFuVeXs40Ry4hvAqGTASMOcfBGrbh9nV84kZPIVyYCR9r5X1FTC+SKrdprML1kGjHwFnAVZRXgkx8CqfHM4o7J+wx05z+GDfPdxMqGsHIm3kr6e4Pg/eYI0dUuyVoDLj68nYFy+BRpysaxnNNyryhMN0DQlZ+1aD4mLb2ryveJAqqC6cGtf7T4lacluq6viOTxDO+pi+zxtTn1Uh89ZDknmA7WJXibplJ0J1BLMD9BdemRuvRRFpfXZB2mOxH9p5yzXRuIgCwAAAABJRU5ErkJggg==;" vertex="1" parent="1">
+          <mxGeometry x="325" y="350" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="2_yLUJa_vtWkAan97R7e-19" value="微信小程序开发技术" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;dashPattern=1 1;" vertex="1" parent="1">
+          <mxGeometry x="315" y="400" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="2_yLUJa_vtWkAan97R7e-21" value="微信小程序开发技术" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;dashPattern=1 1;" vertex="1" parent="1">
+          <mxGeometry x="180" y="500" width="70" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
