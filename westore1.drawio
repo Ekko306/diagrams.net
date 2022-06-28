@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-06-28T10:32:53.828Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.53 Safari/537.36 Edg/103.0.1264.37" etag="lvCOW6fdiMGCsNEN4yas" version="20.0.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-06-28T10:39:39.803Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.53 Safari/537.36 Edg/103.0.1264.37" etag="1DSVt3__1yymW5bwWiEH" version="20.0.3" type="github">
   <diagram id="32xwhfJaXMQFOsESoAmR" name="Page-1">
     <mxGraphModel dx="1374" dy="754" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -27,6 +27,30 @@
         </mxCell>
         <mxCell id="AJ84p1acfhQoedjf8Ayg-9" value="pages" style="text;html=1;strokeColor=#d6b656;fillColor=#fff2cc;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry y="200" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="AJ84p1acfhQoedjf8Ayg-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="AJ84p1acfhQoedjf8Ayg-19" target="AJ84p1acfhQoedjf8Ayg-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="AJ84p1acfhQoedjf8Ayg-19" value="exercise.js&lt;br&gt;题库信息对象模型" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="250" width="205" height="63" as="geometry" />
+        </mxCell>
+        <mxCell id="AJ84p1acfhQoedjf8Ayg-20" value="models" style="text;html=1;strokeColor=#d6b656;fillColor=#fff2cc;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;perimeterSpacing=12;" vertex="1" parent="1">
+          <mxGeometry x="250" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="AJ84p1acfhQoedjf8Ayg-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="AJ84p1acfhQoedjf8Ayg-22" target="AJ84p1acfhQoedjf8Ayg-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="AJ84p1acfhQoedjf8Ayg-22" value="exercise-store.js&lt;br&gt;题库信息存储库" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="250" y="100" width="205" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="AJ84p1acfhQoedjf8Ayg-23" value="stores" style="text;html=1;strokeColor=#d6b656;fillColor=#fff2cc;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="250" y="100" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="AJ84p1acfhQoedjf8Ayg-24" value="&lt;br&gt;&lt;br&gt;1. 用户登录-&amp;gt;初始化user-store&lt;br&gt;&lt;br&gt;2. 课程、题库、社区、我的-&amp;gt;涉及用户身份的部分，获取user-store的用户信息&lt;br&gt;&lt;br&gt;3. 我的专区-资料修改-&amp;gt;更新user-store用户信息，并且update到其他user-store应用处" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="250" y="200" width="205" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="AJ84p1acfhQoedjf8Ayg-25" value="pages" style="text;html=1;strokeColor=#d6b656;fillColor=#fff2cc;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="250" y="200" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
