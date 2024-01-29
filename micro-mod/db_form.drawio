@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-01-29T03:28:31.470Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0" etag="ETA60Sm6Ex8k2fXwGzwG" version="21.8.2" type="github">
+<mxfile host="app.diagrams.net" modified="2024-01-29T03:31:45.266Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0" etag="YyoJcT9-ZMv9HV3eZTQ3" version="21.8.2" type="github">
   <diagram name="第 1 页" id="fwZYbGv6xtQUt4e5_MYE">
     <mxGraphModel dx="1426" dy="785" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -8,13 +8,47 @@
           <mxGeometry width="310" height="30" as="geometry" />
         </mxCell>
         <mxCell id="D9aaZtaCVgC5ulMcn0mg-2" value="线上表单分享视图模式" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#FF6666;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="290" y="45" width="200" height="40" as="geometry" />
+          <mxGeometry x="314" y="45" width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="D9aaZtaCVgC5ulMcn0mg-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="D9aaZtaCVgC5ulMcn0mg-3" target="D9aaZtaCVgC5ulMcn0mg-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="D9aaZtaCVgC5ulMcn0mg-13" value="true" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=18;" vertex="1" connectable="0" parent="D9aaZtaCVgC5ulMcn0mg-11">
+          <mxGeometry x="0.0945" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="D9aaZtaCVgC5ulMcn0mg-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="D9aaZtaCVgC5ulMcn0mg-3" target="D9aaZtaCVgC5ulMcn0mg-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="D9aaZtaCVgC5ulMcn0mg-14" value="false" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=16;" vertex="1" connectable="0" parent="D9aaZtaCVgC5ulMcn0mg-12">
+          <mxGeometry x="-0.0226" y="-4" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="D9aaZtaCVgC5ulMcn0mg-3" value="db.enableQuickFormShare" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="320" y="110" width="160" height="30" as="geometry" />
+          <mxGeometry x="334" y="110" width="160" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="D9aaZtaCVgC5ulMcn0mg-4" value="wenjian内" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="100" y="200" width="180" height="290" as="geometry" />
+        <mxCell id="D9aaZtaCVgC5ulMcn0mg-4" value="文件内表单视图分享面板" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="80" y="200" width="280" height="280" as="geometry" />
+        </mxCell>
+        <mxCell id="D9aaZtaCVgC5ulMcn0mg-5" value="文件内提交" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="80" y="560" width="280" height="280" as="geometry" />
+        </mxCell>
+        <mxCell id="D9aaZtaCVgC5ulMcn0mg-6" value="分享视图提交" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="80" y="920" width="280" height="280" as="geometry" />
+        </mxCell>
+        <mxCell id="D9aaZtaCVgC5ulMcn0mg-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="D9aaZtaCVgC5ulMcn0mg-3" target="D9aaZtaCVgC5ulMcn0mg-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="D9aaZtaCVgC5ulMcn0mg-8" value="文件内表单视图分享面板" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="480" y="200" width="280" height="280" as="geometry" />
+        </mxCell>
+        <mxCell id="D9aaZtaCVgC5ulMcn0mg-9" value="文件内提交" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="480" y="560" width="280" height="280" as="geometry" />
+        </mxCell>
+        <mxCell id="D9aaZtaCVgC5ulMcn0mg-10" value="分享视图提交" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="480" y="920" width="280" height="280" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
