@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-02-01T09:51:04.888Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0" etag="khQ_HaAAj6tvq-XNkahP" version="23.0.2" type="github">
+<mxfile host="app.diagrams.net" modified="2024-02-01T09:51:24.204Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0" etag="K6tT-3MTe9k_aefZ4kTx" version="23.0.2" type="github">
   <diagram name="第 1 页" id="fwZYbGv6xtQUt4e5_MYE">
     <mxGraphModel dx="1426" dy="785" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -116,7 +116,7 @@
         <mxCell id="0DD8GPMilTXLwCw2BiVf-10" value="只留下唯一模式，&lt;br&gt;&amp;nbsp;该模式对于以前情况都要支持仅提交一次&lt;br&gt;&lt;font color=&quot;#ff0000&quot;&gt;（其中包含设置面板哪里，&lt;br&gt;以前的设置面板分成两类，现在都要支持）&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="1042.81" y="360" width="250" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="78g3L-eSjXR0otIdlvys-2" value="这里有点像以下分支会替换到左边树的右分支，要有最新的效果" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#82b366;fillColor=#d5e8d4;" vertex="1" parent="1">
+        <mxCell id="78g3L-eSjXR0otIdlvys-2" value="这里有点像以下分支会替换到左边树的右分支，要有最新的兼容" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#82b366;fillColor=#d5e8d4;" vertex="1" parent="1">
           <mxGeometry x="992.81" width="360" height="30" as="geometry" />
         </mxCell>
       </root>
